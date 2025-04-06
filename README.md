@@ -1,6 +1,6 @@
 # Revenue Analysis
 
-Brief description of the project.
+Revenue analysis
 
 ## 🛠️ Setup Instructions
 
