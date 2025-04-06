@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ### 4. Running the project
 
 ```python3
-python main.py
+python3 main.py
 ```
 
 ## 📁 Project Structure
