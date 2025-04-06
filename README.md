@@ -1,4 +1,4 @@
-# Project Name
+# Revenue Analysis
 
 Brief description of the project.
 
@@ -33,3 +33,5 @@ python main.py
 ```
 
 ## 📁 Project Structure
+
+![Revenue Analysis Diagram](./public/revenue-analysis-diagram.png)
